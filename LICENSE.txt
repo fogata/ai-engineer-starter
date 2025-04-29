@@ -1,0 +1,14 @@
+MIT-NC License (Modificada para uso não comercial)
+
+Copyright (c) 2025 Felipe Ogata
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar com o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar e mesclar, desde que:
+
+🛑 O uso comercial deste software é expressamente proibido sem autorização prévia por escrito do autor.
+
+O Software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo, expressa ou implícita, incluindo, entre outras, garantias de comercialização, adequação a um determinado fim e não violação.
+
+Você deve incluir este aviso de copyright e a condição de uso não comercial em todas as cópias ou partes substanciais do Software.
+
+--- 
+Esta licença é baseada na MIT, mas modificada com restrição para **uso não comercial**.
