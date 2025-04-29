@@ -45,4 +45,4 @@ python app.py
 
 Criar um portfólio prático e aplicar IA em problemas reais. Ideal para transição de carreira para AI Engineer.
 
-Feito por [Seu Nome]. Atualize este README com suas informações.
+Feito por Felipe Ogata
