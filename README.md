@@ -45,4 +45,11 @@ python app.py
 
 Criar um portfólio prático e aplicar IA em problemas reais. Ideal para transição de carreira para AI Engineer.
 
-Feito por Felipe Ogata
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos de uso **não comercial**.  
+Você pode estudar, modificar e usar este código para fins pessoais ou educacionais, mas **não pode utilizá-lo para fins comerciais sem autorização explícita** do autor.
+
+© 2025 Felipe Ogata. Todos os direitos reservados.
